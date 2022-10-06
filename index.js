@@ -1,0 +1,1 @@
+console.log("min dator suger också");
